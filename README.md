@@ -8,3 +8,7 @@ cd pgadmin4-csrf-bug-patch
 ```
 ### replace the utility.js to your_path_of_pgadmin4/web/pgadmin/misc/file_manager/static/js/utility.js
 
+
+And run `yarn install ` and `yarn run bundle ` in the 'web' directory.
+
+
